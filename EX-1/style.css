@@ -1,0 +1,27 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+
+div{
+    margin:30px 100px;
+    background-color: aliceblue;
+    text-align:justify;
+    padding:20px;
+}
+
+.dis{
+    border-radius: 10px;
+}
+
+button{
+    border-radius: 30px;
+    padding:10px;
+    border:none;
+    cursor: pointer;
+    
+}
+
+.text{
+    color: aliceblue;
+}
